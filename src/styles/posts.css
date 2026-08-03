@@ -130,7 +130,6 @@
   flex-direction: column;
 }
 
-/* --- post card: info band + separated bamboo "ground" band --- */
 .post-card {
   border-bottom: 1px solid var(--color-line);
   cursor: pointer;
@@ -242,7 +241,6 @@
   text-align: right;
 }
 
-/* the "ground" strip: visually separated from the post info above it */
 .post-card__ground {
   height: 26px;
   position: relative;
@@ -326,7 +324,7 @@
   height: 24px;
 }
 
-/* Detail page */
+/* 상세 페이지 */
 .post-detail-main {
   width: min(920px, 100%);
   margin: 0 auto;
@@ -615,7 +613,7 @@ button.detail-stat-card:disabled {
   cursor: pointer;
 }
 
-/* Create and edit pages */
+/* 게시글 작성·수정 페이지 */
 .post-create-main,
 .post-edit-main {
   width: min(760px, 100%);

@@ -29,7 +29,6 @@
 }
 
 :root {
-  /* night bamboo forest palette */
   --color-bg: #0d1a15;
   --color-bg-elevated: #142720;
   --color-bg-soft: #1b3128;
@@ -51,7 +50,7 @@
   --color-coral: #e8836a;
   --color-coral-soft: rgba(232, 131, 106, 0.16);
 
-  /* legacy aliases kept so existing component styles keep working */
+  /* 기존 컴포넌트 스타일과의 호환을 위해 이전 변수명을 유지한다. */
   --color-navy-950: #070f0b;
   --color-navy-900: #0d1a15;
   --color-navy-800: #142720;
