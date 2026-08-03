@@ -16,8 +16,6 @@ Bamboo Board는 사용자가 익명으로 게시글을 작성하고 댓글과 �
 
 - React 19
 - React Router 7
-- Vite 8
-- Oxlint
 - CSS
 - Docker, Nginx
 - GitHub Actions 기반 Blue/Green 배포
