@@ -70,9 +70,6 @@ API 주소는 `VITE_API_BASE_URL`로 지정하며, 기본값은 `http://localhos
 
 스크린샷 추가 예정
 
-## ERD
-
-백엔드 ERD 링크: [Bamboo Board Backend ERD](https://www.erdcloud.com/d/sBnm36Drq55KKnnRh)
 
 ## 트러블 슈팅
 
@@ -87,3 +84,5 @@ API 주소는 `VITE_API_BASE_URL`로 지정하며, 기본값은 `http://localhos
 ## 배포
 
 CI에서 lint와 build를 통과하면 프론트엔드 컨테이너 이미지를 생성합니다. 배포 환경에서는 Nginx와 GitHub Actions를 사용해 Blue/Green 방식으로 새 버전을 교체합니다.
+
+배포 주소는 http://54.116.128.239/login입니다.
