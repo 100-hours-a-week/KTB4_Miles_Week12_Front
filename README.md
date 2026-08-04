@@ -10,7 +10,8 @@ Bamboo Board는 사용자가 익명으로 게시글을 작성하고 댓글과 �
 
 ## 개발 인원 및 기간
 
-내용 작성 예정
+- 개발 기간 : 2026-05-25 ~ 2024-08-09
+- 개발 인원 : 프론트엔드/백엔드 1명 (본인)
 
 ## 사용 기술 및 툴
 
@@ -20,17 +21,6 @@ Bamboo Board는 사용자가 익명으로 게시글을 작성하고 댓글과 �
 - Docker, Nginx
 - GitHub Actions 기반 Blue/Green 배포
 
-## 주요 기능
-
-- 회원가입, 로그인, 로그아웃
-- 게시글 목록, 상세 조회, 작성, 수정, 삭제
-- 게시글 이미지 등록과 이미지 갤러리
-- 댓글 작성, 수정, 삭제
-- 좋아요 및 좋아요 취소
-- 게시글 신고
-- 프로필 수정, 비밀번호 변경, 회원 탈퇴
-- 인증 사용자 전용 라우트와 비로그인 사용자 전용 라우트
-- 공통 로딩·에러·토스트 UI
 
 ## 폴더 구조
 
@@ -62,14 +52,17 @@ npm run build
 
 API 주소는 `VITE_API_BASE_URL`로 지정하며, 기본값은 `http://localhost:8080`입니다.
 
-## 관련 저장소
+## Back-end
 
-- [Backend Repository](https://github.com/100-hours-a-week/KTB4_Miles_Week12_Back)
+- (https://github.com/100-hours-a-week/KTB4_Miles_Week12_Back)
 
 ## 서비스 화면
 
 스크린샷 추가 예정
 
+## 서비스 시연 영상
+
+추가 예정
 
 ## 트러블 슈팅
 
