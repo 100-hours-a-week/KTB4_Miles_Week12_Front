@@ -49,35 +49,35 @@ src
 
 <table cellspacing="12" cellpadding="8">
 <tr>
-<td align="center" valign="bottom" width="33%"><img src="readme/회원가입.png" width="240"><br><sub>회원가입.png</sub></td>
-<td align="center" valign="bottom" width="33%"><img src="readme/로그인.png" width="240"><br><sub>로그인.png</sub></td>
-<td align="center" valign="bottom" width="33%"><img src="readme/게시물 목록.png" width="240"><br><sub>게시물 목록.png</sub></td>
+<td align="center" valign="bottom" width="33%"><img src="readme/회원가입.png" width="240"><br><sub>회원가입.png</sub></td>
+<td align="center" valign="bottom" width="33%"><img src="readme/로그인.png" width="240"><br><sub>로그인.png</sub></td>
+<td align="center" valign="bottom" width="33%"><img src="readme/게시물 목록.png" width="240"><br><sub>게시물 목록.png</sub></td>
 </tr>
 <tr>
-<td align="center" valign="bottom" width="33%"><img src="readme/게시물 상세.png" width="240"><br><sub>게시물 상세.png</sub></td>
-<td align="center" valign="bottom" width="33%"><img src="readme/게시글 사진 첨부.png" width="240"><br><sub>게시글 사진 첨부.png</sub></td>
-<td align="center" valign="bottom" width="33%"><img src="readme/게시글 수정.png" width="240"><br><sub>게시글 수정.png</sub></td>
+<td align="center" valign="bottom" width="33%"><img src="readme/게시물 상세.png" width="240"><br><sub>게시물 상세.png</sub></td>
+<td align="center" valign="bottom" width="33%"><img src="readme/게시글 사진 첨부.png" width="240"><br><sub>게시글 사진 첨부.png</sub></td>
+<td align="center" valign="bottom" width="33%"><img src="readme/게시글 수정.png" width="240"><br><sub>게시글 수정.png</sub></td>
 </tr>
 <tr>
-<td align="center" valign="bottom" width="33%"><img src="readme/게시글 삭제.png" width="240"><br><sub>게시글 삭제.png</sub></td>
-<td align="center" valign="bottom" width="33%"><img src="readme/댓글.png" width="240"><br><sub>댓글.png</sub></td>
-<td align="center" valign="bottom" width="33%"><img src="readme/댓글 삭제.png" width="240"><br><sub>댓글 삭제.png</sub></td>
+<td align="center" valign="bottom" width="33%"><img src="readme/게시글 삭제.png" width="240"><br><sub>게시글 삭제.png</sub></td>
+<td align="center" valign="bottom" width="33%"><img src="readme/댓글.png" width="240"><br><sub>댓글.png</sub></td>
+<td align="center" valign="bottom" width="33%"><img src="readme/댓글 삭제.png" width="240"><br><sub>댓글 삭제.png</sub></td>
 </tr>
 <tr>
-<td align="center" valign="bottom" width="33%"><img src="readme/댓글 수정.png" width="240"><br><sub>댓글 수정.png</sub></td>
-<td align="center" valign="bottom" width="33%"><img src="readme/신고.png" width="240"><br><sub>신고.png</sub></td>
-<td align="center" valign="bottom" width="33%"><img src="readme/신고된 게시글.png" width="240"><br><sub>신고된 게시글.png</sub></td>
+<td align="center" valign="bottom" width="33%"><img src="readme/댓글 수정.png" width="240"><br><sub>댓글 수정.png</sub></td>
+<td align="center" valign="bottom" width="33%"><img src="readme/신고.png" width="240"><br><sub>신고.png</sub></td>
+<td align="center" valign="bottom" width="33%"><img src="readme/신고된 게시글.png" width="240"><br><sub>신고된 게시글.png</sub></td>
 </tr>
 <tr>
-<td align="center" valign="bottom" width="33%"><img src="readme/좋아요.png" width="240"><br><sub>좋아요.png</sub></td>
-<td align="center" valign="bottom" width="33%"><img src="readme/비밀번호 수정.png" width="240"><br><sub>비밀번호 수정.png</sub></td>
-<td align="center" valign="bottom" width="33%"><img src="readme/회원정보 수정.png" width="240"><br><sub>회원정보 수정.png</sub></td>
+<td align="center" valign="bottom" width="33%"><img src="readme/좋아요.png" width="240"><br><sub>좋아요.png</sub></td>
+<td align="center" valign="bottom" width="33%"><img src="readme/비밀번호 수정.png" width="240"><br><sub>비밀번호 수정.png</sub></td>
+<td align="center" valign="bottom" width="33%"><img src="readme/회원정보 수정.png" width="240"><br><sub>회원정보 수정.png</sub></td>
 </tr>
 </table>
 
 ## 서비스 시연 영상
 
-[실행 영상](<readme/실행 영상.mov>)
+[실행 영상](<readme/실행 영상.mov>)
 
 ## 트러블 슈팅
 
